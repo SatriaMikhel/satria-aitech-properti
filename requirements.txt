@@ -1,7 +1,8 @@
-streamlit==1.30.0
+streamlit
 pandas
 numpy
 joblib
 xgboost
 fpdf
 scikit-learn
+
